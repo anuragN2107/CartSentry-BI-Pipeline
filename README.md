@@ -60,5 +60,5 @@ Go down to your VS Code terminal (ensure your environment is active and you've s
 
 ```powershell
 git add README.md
-git commit -m "Docs: Added comprehensive production-ready README"
+git commit -m 
 git push origin main
