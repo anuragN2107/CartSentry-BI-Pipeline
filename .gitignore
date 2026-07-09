@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+.pytest_cache/
+data/raw_transactions.csv
+data/clean_transactions.csv
