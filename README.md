@@ -62,3 +62,5 @@ Go down to your VS Code terminal (ensure your environment is active and you've s
 git add README.md
 git commit -m 
 git push origin main
+
+<!-- Working on Issue #1: Enhancing the Cart Abandonment Rate KPI logic -->
